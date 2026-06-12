@@ -1,0 +1,13 @@
+# 核心依赖
+openai>=1.0.0          # OpenAI 兼容接口（通义千问、智谱等）
+httpx>=0.25.0          # HTTP 客户端
+
+# 文档生成
+python-docx>=1.0.0     # Word 文档生成
+
+# 网络搜索
+beautifulsoup4>=4.12.0 # HTML 解析
+lxml>=5.0.0            # XML/HTML 解析引擎
+
+# 工具
+markdown>=3.5.0        # Markdown 处理
